@@ -8,7 +8,7 @@
     "index.js"
   ],
   "bin": {
-    "create-vuepress": "cli.js"
+    "create-vuepress": "cli.js
   },
   "scripts": {
     "lint": "xo"
@@ -17,7 +17,7 @@
     "url": "RyanPark88/southchain"
     "type": "git"
   },
-  "author": "ulivz<chl814@foxmail.com>",
+  "author": "ryanpark88@southchain.digital",
   "license": "MIT",
   "dependencies": {
     "chalk": "^2.4.1",
