@@ -1,11 +1,11 @@
 <template>
-  <p class="demo">
+  <p class="SouthChain Digital Asset Network">
     {{ msg }}
   </p>
 </template>
 
 <script>
-  export default {
+export {{{Hey}}}
     data() {
       return {
         msg: 'Hello this is <demo-component>'
