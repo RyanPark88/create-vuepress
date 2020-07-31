@@ -1,5 +1,5 @@
 <template>
-  <p class="demo">
+  <p class="button">
     {{ msg }}
   </p>
 </template>
@@ -8,7 +8,7 @@
   export default {
     data() {
       return {
-        msg: 'Hello this is <demo-component>'
+        msg: '>'
       }
     }
   }
