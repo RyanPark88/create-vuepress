@@ -1,8 +1,8 @@
 {
-  "name": "create-vuepress",
-  "version": "0.0.12",
-  "description": "Scaffolding a VuePress project",
-  "files": [
+  "name": "southchain digital page",
+  "version": "0.0.1",
+  "description": "SouthChain Digital blog, information, contacts",
+  "files": 
     "lib",
     "cli.js",
     "index.js"
@@ -14,7 +14,7 @@
     "lint": "xo"
   },
   "repository": {
-    "url": "ulivz/create-vuepress",
+    "url": "RyanPark88/southchain",
     "type": "git"
   },
   "author": "ulivz<chl814@foxmail.com>",
